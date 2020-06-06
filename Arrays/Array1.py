@@ -1,3 +1,4 @@
+# Check whether the sum of arr value is divisible by 2,3 and 5 or not
 n = int(input())
 
 arr = list(map(int, input().split()[:n]))

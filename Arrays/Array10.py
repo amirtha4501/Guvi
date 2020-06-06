@@ -22,7 +22,6 @@ for i in range(0,n):
     if st[i] != st[n-1]:
         if st[i] != st[i+1]:
             new.append(st[i])
-            print('oi')
 if new==[]:
     print(-1) 
 else:
